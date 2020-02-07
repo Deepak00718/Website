@@ -52,7 +52,7 @@ nav {
   height: 100%; /* only for demonstration, should be removed */
   background: #ccc;
   padding:10px;
-  position: absolute;
+  position: fixed;
   margin: 0px;
   top: 48px;
   z-index: -1;        
